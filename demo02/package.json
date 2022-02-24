@@ -1,0 +1,21 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "hello express",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Loan",
+  "license": "ISC"
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Banana",
+        "price":"7000",
+        "category":"fruit"
+
+    },
+    {
+        "id":2,
+        "name":"Mango",
+        "price":"12000",
+        "category":"fruit"
+    },
+    {
+        "id":3,
+        "name":"Herb",
+        "price":"2000",
+        "category":"vegetable"
+    },
+    {
+        "id":4,
+        "name":"Carrot",
+        "price":"5050",
+        "category":"vegetable"
+    }
+]
