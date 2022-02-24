@@ -1,0 +1,19 @@
+#http://EditorConfig.org
+root = true
+[*] # all file
+charset = utf-8
+end_of_line = lf # cuoi moi dong
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true # xoa khoang trang
+quote_type = single # nhay don
+max_line_lenght = 100 # so luong dong code tren mot dong
+
+[*.{html}]
+indent_size = 4 # tab
+
+[*.ts,tsx,js,jsx]
+indent_size = 2
+
+[{package.json}]
+indent_size = 2
